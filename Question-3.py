@@ -30,4 +30,5 @@ for i in range(len(dp)):
       right = j
     else:
       pass
-print(arr1[right:right+maxm])
+print(arr1[right:right+maxm]) 
+# Output [7, 4, 2, 7, 9]
